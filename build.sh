@@ -1,1 +1,1 @@
-docker build -t liaohuqiu/ossutil ./
+docker build -t liaohuqiu/aliyun-ossutil ./
